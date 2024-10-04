@@ -24,7 +24,7 @@ Running the program itself:
 
 1. The program itself extracts source path which could be relative path or absolute path (your choice depending on how far away your files are from home directory). 
 
-2. Then, it displays what's in the directory. Afterwards, it gives the user another input for what file extension they would like to enter.
+2. Then, it displays what's in the directory. Afterwards, it gives the user another input for what file extension they would like to enter. When entering the file extension themselves, YOU DO NOT NEED the dot before the file extension. I made it like that just to have it simple and less typing. for example, enter pdf instead of .pdf
 
 3. All files would be shown just to verify if you are sure you want to move all these files of a specific extension.
 
